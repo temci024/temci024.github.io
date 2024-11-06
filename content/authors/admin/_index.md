@@ -75,15 +75,12 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc (Hons) in Electrical Engineering with a Minor in Entrepreneurship
     institution: University of Moratuwa, Srilanka
-    date_start: 2018
-    date_end: 2023
+    date_start: 2018-10-16
+    date_end: 2023-07-31
     summary: |
       GPA: 3.69/4.2
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
