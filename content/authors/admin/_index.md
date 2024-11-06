@@ -73,7 +73,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Bachelor of Science (Hons) in Electrical Engineering with a Minor in Entrepreneurship
+  - area: BSc (Hons) in Electrical Engineering with a Minor in Entrepreneurship
     institution: University of Moratuwa, Srilanka
     date_start: 2018
     date_end: 2023
