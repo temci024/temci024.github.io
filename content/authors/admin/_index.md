@@ -84,8 +84,8 @@ education:
 work:
   - position: AI Engineer
     company_name: promiseQ GmbH
-    company_url: 'https://www.promiseq.com/'
-    company_logo: 'C:/Acadamic/temcious_final/temci024.github.io/assets/media/promiseq.svg'
+    company_url: 'https://www.promiseq.com'
+    company_logo: ''
     date_start: 2024-08-05
     date_end: ''
     summary: |2-
@@ -96,7 +96,7 @@ work:
 
   - position: Electronic Engineer
     company_name: CodeGen International (Pvt) Ltd
-    company_url: 'https://codegen.co.uk/'
+    company_url: 'https://codegen.co.uk'
     company_logo: 'C:/Acadamic/temcious_final/temci024.github.io/assets/media/codegen.svg'
     date_start: 2016-01-01
     date_end: 2020-12-31
