@@ -142,11 +142,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Tamil
+    percent: 100
+  - name: Sinhala
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -182,4 +182,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an AI Engineer at PromiseQ in Berlin, Germany, specializing in computer vision, embedded AI, and generative AI for video analytics applications. My primary focus is on integrating AI into edge devices to enhance their capabilities and applications. I am passionate about developing innovative solutions for real-time data processing and decision-making at the edge, aiming to improve efficiency and functionality across sectors such as automotive, healthcare, and agriculture.
+
+Prior to joining PromiseQ, I worked as an Electronic Engineer at CodeGen International Pvt Ltd, where I gained valuable experience in embedded systems design. I completed my undergraduate studies at the University of Moratuwa, Sri Lanka, with a thesis on brain-controlled automatic wheelchair navigation, under the guidance of [Prof. Buddhika Jayasekara](https://uom.lk/staff/Jayasekara.AGBP) and [Prof. Ruwan Gopura](https://uom.lk/staff/Gopura.RARC).
